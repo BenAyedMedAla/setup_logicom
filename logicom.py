@@ -1,7 +1,6 @@
 import os,time
 import sys
 import pyautogui
-import mysql.connector
 import ctypes,subprocess
 from pywinauto import *
 from pywinauto.keyboard import send_keys
